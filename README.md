@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nokia CPQ Project**
 
-- 🌱 I’m currently learning **Vue Js and**
+- 🌱 I’m currently learning **Vue Js and**Cypruss
 
 - 👯 I’m looking to collaborate on **React Js, Next Js, Open Source Tools**
 
